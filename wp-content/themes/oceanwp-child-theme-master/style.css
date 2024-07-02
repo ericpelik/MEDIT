@@ -14,9 +14,15 @@ Version: 1.0
 .contact-btn{
     display:inline-block;
     background-color:white;
+    color:#2377A8;
     padding:6px 16px;
     border-radius:6px;
 }
+
+.contact-btn:hover{
+    color: #28BABF
+}
+
 .popup-overlay{
     position:fixed;
     width:100%;

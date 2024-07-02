@@ -5424,3 +5424,128 @@ Stack trace:
 [24-May-2023 07:35:33 UTC] PHP Fatal error:  Cannot redeclare contact_btn() (previously declared in /app/www/wp-content/themes/oceanwp-child-theme-master/functions.php:35) in /app/www/wp-content/themes/oceanwp-child-theme-master/header.php on line 97
 [24-May-2023 07:35:33 UTC] PHP Fatal error:  Cannot redeclare contact_btn() (previously declared in /app/www/wp-content/themes/oceanwp-child-theme-master/functions.php:35) in /app/www/wp-content/themes/oceanwp-child-theme-master/header.php on line 97
 [24-May-2023 13:12:08 UTC] PHP Fatal error:  Cannot redeclare contact_btn() (previously declared in /app/www/wp-content/themes/oceanwp-child-theme-master/functions.php:35) in /app/www/wp-content/themes/oceanwp-child-theme-master/header.php on line 97
+[02-Jul-2024 11:00:22 UTC] PHP Fatal error:  Cannot redeclare contact_btn() (previously declared in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/functions.php:35) in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 97
+[02-Jul-2024 11:00:32 UTC] PHP Fatal error:  Cannot redeclare contact_btn() (previously declared in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/functions.php:35) in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 97
+[02-Jul-2024 11:00:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Jul-2024 11:00:32 UTC] Cron reschedule event error for hook: wpforms_email_summaries_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wpforms_email_summaries_weekly","args":[],"interval":604800}
+[02-Jul-2024 11:00:40 UTC] Cron unschedule event error for hook: fs_install_sync_ocean-social-sharing, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[02-Jul-2024 11:02:29 UTC] PHP Warning:  Unterminated comment starting line 97 in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 97
+[02-Jul-2024 11:02:35 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 66
+[02-Jul-2024 11:02:58 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 66
+[02-Jul-2024 11:19:34 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:19:35 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:19:36 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:19:39 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:19:40 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:19:46 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:19:47 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:04 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:05 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:07 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:08 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:09 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:11 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:12 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:21 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:22 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:38 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:39 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:57 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:20:59 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:10 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:12 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:15 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:17 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:28 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:29 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:38 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:39 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:41 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:21:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to QM_Hook::process() must be of the type string, array given, called in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/collectors/hooks.php on line 54 and defined in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/classes/Hook.php:29
+Stack trace:
+#0 /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/collectors/hooks.php(54): QM_Hook::process('muplugins_loade...', Array, true, false)
+#1 /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/classes/Collectors.php(86): QM_Collector_Hooks->process()
+#2 /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/classes/Dispatcher.php(108): QM_Collectors->process()
+#3 /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/dispatchers/AJAX.php(53): QM_Dispatcher->get_outputters('headers')
+#4 /Applications/MAMP/htdocs/MedIt/wp-includes/class-wp-hook.php(308): QM_Dispatcher_AJAX->dispatch('')
+#5 /Applications/MAMP/htdocs/MedIt/wp-includes/class-wp-hook.ph in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/query-monitor/classes/Hook.php on line 29
+[02-Jul-2024 11:21:55 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:11 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:12 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:14 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:17 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:22 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:26 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:34 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:50 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:22:53 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:25 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:29 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:30 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:45 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:50 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:51 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:53 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:23:54 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:00 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:03 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:07 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:10 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:12 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:15 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:39 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:41 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:42 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:52 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:24:54 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:25 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:27 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:30 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:31 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:35 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:43 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:25:47 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:26:24 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:26:26 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:26:30 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:26:33 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:11 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:13 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:17 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:32 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:36 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:41 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:45 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:53 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:56 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:27:59 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:02 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:23 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:24 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:27 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:30 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:33 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:34 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:28:38 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:30:58 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:00 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:03 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:07 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:08 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:13 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:14 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:26 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:27 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:43 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:43 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:47 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:47 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:31:48 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:32:47 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:32:50 UTC] PHP Notice:  Undefined index: TRIAL in /Applications/MAMP/htdocs/MedIt/wp-content/plugins/astra_worker/astra_worker.php on line 107
+[02-Jul-2024 11:38:05 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 66
+[02-Jul-2024 11:38:26 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/MedIt/wp-content/themes/oceanwp-child-theme-master/header.php on line 66
+[02-Jul-2024 11:44:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/MedIt/wp-includes/functions.php on line 2124
+[02-Jul-2024 11:44:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/MedIt/wp-includes/class-wp-theme-json.php on line 2923
+[02-Jul-2024 11:46:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/MedIt/wp-includes/class-wp-theme-json.php on line 2162
+[02-Jul-2024 11:47:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/MedIt/wp-includes/class-wp-dependencies.php on line 289

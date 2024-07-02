@@ -104,7 +104,8 @@ if (!class_exists('Astra_worker')) {
 
         protected function is_tc_eligible(){
 
-            if(empty($_SERVER["SERVER_NAME"]) || $_SERVER["TRIAL"] == 'true'){
+            //if(empty($_SERVER["SERVER_NAME"]) || $_SERVER["TRIAL"] == 'true'){
+            if(empty($_SERVER["SERVER_NAME"]) || "Medit" == 'true'){
                 $this->response['message'] = "Website is currently not eligible.";
                 return false;
             }else{
